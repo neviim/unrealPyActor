@@ -11,7 +11,7 @@ from unreal_engine import FVector, FRotator
 world = ue.get_editor_world()
 
 # Load o Blueprint BP_Spiral
-bp_actor = ue.load_object(BlueprintGeneratedClass, '/Game/Jads/Blueprints/BP_Spiral.BP_Spiral')
+#bp_actor = ue.load_object(BlueprintGeneratedClass, '/Game/Jads/Blueprints/BP_Spiral.BP_Spiral')
 
 # Spawn o BP na coordenadas localizadas em, FVector e rotasao FRotator
-actor0 = world.actor_spawn(bp_actor, FVector(0, 0, 0), FRotator(0, 0, 0))
+#actor0 = world.actor_spawn(bp_actor, FVector(0, 0, 0), FRotator(0, 0, 0))

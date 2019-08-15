@@ -572,3 +572,673 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.15-16.47.49:327][981]LogSlate: Took 0.021861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2019.08.15-16.47.57:847][981]LogSlate: Window 'Pick Parent Class' being destroyed
 [2019.08.15-16.48.31:002][ 59]LogRenderer: Reallocating scene render targets to support 1132x512 Format 10 NumSamples 1 (Frame:4328).
+[2019.08.15-16.48.45:111][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.08.15-16.48.45:112][827]LogMetaData: Removing '/Game/Jads/Blueprints/BP_Actor_python.BP_Actor_python:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Jads/Blueprints/BP_Pyactor_python.PackageMetaData'
+[2019.08.15-16.48.45:112][827]LogMetaData: Removing '/Game/Jads/Blueprints/BP_Actor_python.SKEL_BP_Actor_python_C' ref from Metadata '/Game/Jads/Blueprints/BP_Pyactor_python.PackageMetaData'
+[2019.08.15-16.48.45:113][827]LogMetaData: Removing '/Game/Jads/Blueprints/BP_Actor_python.BP_Actor_python_C' ref from Metadata '/Game/Jads/Blueprints/BP_Pyactor_python.PackageMetaData'
+[2019.08.15-16.48.45:113][827]LogMetaData: Removing '/Game/Jads/Blueprints/BP_Actor_python.BP_Actor_python:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Jads/Blueprints/BP_Pyactor_python.PackageMetaData'
+[2019.08.15-16.48.45:113][827]LogMetaData: Removing '/Game/Jads/Blueprints/BP_Actor_python.BP_Actor_python:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Jads/Blueprints/BP_Pyactor_python.PackageMetaData'
+[2019.08.15-16.48.45:114][827]LogMetaData: Removing '/Game/Jads/Blueprints/BP_Actor_python.BP_Actor_python:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Jads/Blueprints/BP_Pyactor_python.PackageMetaData'
+[2019.08.15-16.48.45:162][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jads/Blueprints/BP_Actor_python" FILE="E:/__source/unrealProjetos/unrealPyActor/Content/Jads/Blueprints/BP_Actor_python.uasset" SILENT=true
+[2019.08.15-16.48.45:345][827]LogSavePackage: Moving 'E:/__source/unrealProjetos/unrealPyActor/Saved/BP_Actor_python0F37425A4CC017522013C6A3E3275ACB.tmp' to 'E:/__source/unrealProjetos/unrealPyActor/Content/Jads/Blueprints/BP_Actor_python.uasset'
+[2019.08.15-16.48.45:572][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.08.15-16.48.45:598][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.08.15-16.48.45:622][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.08.15-16.48.49:671][200]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Jads/Blueprints/BP_Actor_python.BP_Actor_python
+[2019.08.15-16.48.51:116][200]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 121 classes and 0 folders.
+[2019.08.15-16.49.00:449][449]LogRenderer: Reallocating scene render targets to support 1132x560 Format 10 NumSamples 1 (Frame:251).
+[2019.08.15-16.49.00:508][449]LogRenderer: Reallocating scene render targets to support 1132x620 Format 10 NumSamples 1 (Frame:252).
+[2019.08.15-16.49.00:585][449]LogRenderer: Reallocating scene render targets to support 1132x684 Format 10 NumSamples 1 (Frame:253).
+[2019.08.15-16.49.00:629][449]LogRenderer: Reallocating scene render targets to support 1132x728 Format 10 NumSamples 1 (Frame:254).
+[2019.08.15-16.49.00:695][449]LogRenderer: Reallocating scene render targets to support 1132x756 Format 10 NumSamples 1 (Frame:255).
+[2019.08.15-16.49.00:761][449]LogRenderer: Reallocating scene render targets to support 1132x768 Format 10 NumSamples 1 (Frame:256).
+[2019.08.15-16.49.00:816][449]LogRenderer: Reallocating scene render targets to support 1132x784 Format 10 NumSamples 1 (Frame:257).
+[2019.08.15-16.49.00:881][449]LogRenderer: Reallocating scene render targets to support 1132x788 Format 10 NumSamples 1 (Frame:258).
+[2019.08.15-16.49.01:227][449]LogRenderer: Reallocating scene render targets to support 1132x792 Format 10 NumSamples 1 (Frame:262).
+[2019.08.15-16.49.01:413][449]LogRenderer: Reallocating scene render targets to support 1132x796 Format 10 NumSamples 1 (Frame:266).
+[2019.08.15-16.49.36:434][138]LogSlate: Took 0.051043 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.15-16.51.59:733][795]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2019.08.15-16.52.39:849][732]BlueprintLog: New page: Compile BP_Actor_python
+[2019.08.15-16.52.40:643][732]LogUObjectHash: Compacting FUObjectHashTables data took   7.82ms
+[2019.08.15-16.52.41:570][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jads/Blueprints/BP_Actor_python" FILE="E:/__source/unrealProjetos/unrealPyActor/Content/Jads/Blueprints/BP_Actor_python.uasset" SILENT=true
+[2019.08.15-16.52.41:622][785]LogSavePackage: Moving 'E:/__source/unrealProjetos/unrealPyActor/Saved/BP_Actor_pythonC981F1C44E23F1426AB7ADA3DC071E7A.tmp' to 'E:/__source/unrealProjetos/unrealPyActor/Content/Jads/Blueprints/BP_Actor_python.uasset'
+[2019.08.15-16.52.43:523][928]LogSlate: Window 'BP_Actor_python' being destroyed
+[2019.08.15-16.52.43:526][928]LogSlate: Window 'BP_Actor_python' being destroyed
+[2019.08.15-16.52.59:175][425]LogSlate: Window 'Python Editor' being destroyed
+[2019.08.15-16.53.13:810][ 11]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font 'E:/__source/unrealProjetos/unrealPyActor/Plugins/UnrealEnginePython/Resources/Font/DroidSansMono.ttf' (77K)
+[2019.08.15-16.53.13:860][ 11]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' was requested. Font: 'E:/__source/unrealProjetos/unrealPyActor/Plugins/UnrealEnginePython/Resources/Font/DroidSansMono.ttf', Character: '	 (U+0009)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2019.08.15-16.53.13:974][ 11]LogSlate: Took 0.111448 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.08.15-16.53.13:975][ 11]LogSlate: Last resort fallback font was requested. Font: 'E:/__source/unrealProjetos/unrealPyActor/Plugins/UnrealEnginePython/Resources/Font/DroidSansMono.ttf', Character: '	 (U+0009)'
+[2019.08.15-16.53.14:027][ 11]LogSlate: Took 0.050194 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2019.08.15-17.05.21:939][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/Python_Module" FILE="E:/__source/unrealProjetos/unrealPyActor/Content/Scripts/Python_Module.uasset" SILENT=true
+[2019.08.15-17.05.21:946][510]LogSavePackage: Moving 'E:/__source/unrealProjetos/unrealPyActor/Saved/Python_Module48A7561D46A45CBA66EDE0BDF0FF8DC7.tmp' to 'E:/__source/unrealProjetos/unrealPyActor/Content/Scripts/Python_Module.uasset'
+[2019.08.15-17.05.22:235][510]LogUObjectHash: Compacting FUObjectHashTables data took   6.91ms
+[2019.08.15-17.05.22:289][510]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2019.08.15-17.05.22:315][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.08.15-17.07.48:063][ 31]LogSlate: Window 'Python Editor' being destroyed
+[2019.08.15-17.07.59:556][250]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Jads/Blueprints/BP_Actor_python.BP_Actor_python
+[2019.08.15-17.08.00:308][250]LogSlate: Took 0.022794 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.15-17.08.16:511][ 30]LogRenderer: Reallocating scene render targets to support 1132x968 Format 10 NumSamples 1 (Frame:1).
+[2019.08.15-17.09.34:557][253]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.08.15-17.09.34:557][253]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.032
+[2019.08.15-17.09.34:570][253]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Jads/Blueprints/BP_Actor_python] ([1] browsable assets)...
+[2019.08.15-17.09.34:588][253]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Jads/Blueprints/BP_Actor_python.BP_Actor_python]
+[2019.08.15-17.09.34:588][253]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jads/Blueprints/BP_Actor_python]
+[2019.08.15-17.09.34:618][253]LogSavePackage: Moving 'E:/__source/unrealProjetos/unrealPyActor/Saved/BP_Actor_python_Auto14CBE15314ED83934FF6BE682C7A431BF.tmp' to 'E:/__source/unrealProjetos/unrealPyActor/Saved/Autosaves/Game/Jads/Blueprints/BP_Actor_python_Auto1.uasset'
+[2019.08.15-17.09.34:748][253]LogFileHelpers: Auto-saving content packages took 0.190
+[2019.08.15-17.09.35:067][287]BlueprintLog: New page: Compile BP_Actor_python
+[2019.08.15-17.09.35:247][287]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.08.15-17.09.35:251][287]LogPython: Error: source code string cannot contain null bytes
+[2019.08.15-17.09.36:457][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jads/Blueprints/BP_Actor_python" FILE="E:/__source/unrealProjetos/unrealPyActor/Content/Jads/Blueprints/BP_Actor_python.uasset" SILENT=true
+[2019.08.15-17.09.36:480][423]LogSavePackage: Moving 'E:/__source/unrealProjetos/unrealPyActor/Saved/BP_Actor_python39138B5C4D4D8B39AD394FB69C1E594F.tmp' to 'E:/__source/unrealProjetos/unrealPyActor/Content/Jads/Blueprints/BP_Actor_python.uasset'
+[2019.08.15-17.09.46:016][657]LogRenderer: Reallocating scene render targets to support 1180x968 Format 10 NumSamples 1 (Frame:18329).
+[2019.08.15-17.10.00:414][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.10.20:662][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.10.20:803][ 85]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.15-17.10.20:867][ 85]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.10.20:888][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.15-17.10.20:964][ 85]PIE: New page: PIE session: Minimal_Default (Aug 15, 2019, 11:10:20 AM)
+[2019.08.15-17.10.21:061][ 85]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.08.15-17.10.21:084][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021467s)
+[2019.08.15-17.10.21:085][ 85]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.15-17.10.21:102][ 85]LogPlayLevel: PIE: World Init took: (0.017173s)
+[2019.08.15-17.10.21:102][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.040347s)
+[2019.08.15-17.10.21:159][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.08.15-17.10.21:264][ 85]LogInit: XAudio2 using 'Alto-falantes (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.15-17.10.21:289][ 85]LogInit: FAudioDevice initialized.
+[2019.08.15-17.10.21:346][ 85]LogLoad: Game class is 'GameModeBase'
+[2019.08.15-17.10.21:472][ 85]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.08.15-14.10.21
+[2019.08.15-17.10.21:474][ 85]LogPython: Error: source code string cannot contain null bytes
+[2019.08.15-17.10.21:509][ 85]LogWorld: Bringing up level for play took: 0.038550
+[2019.08.15-17.10.21:655][ 85]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.08.15-17.10.21:700][ 85]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.08.15-17.10.21:702][ 85]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2019.08.15-17.10.21:797][ 85]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.54
+[2019.08.15-17.10.21:797][ 85]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.10.46:275][920]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.10.46:319][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.10.46:402][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.15-17.10.46:403][920]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.10.46:452][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.10.46:489][920]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2019.08.15-17.10.46:543][921]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.08.15-17.11.17:688][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.12.00:066][404]LogPython: Ola este é seu pipeline automator
+[2019.08.15-17.12.00:067][404]LogPython: 
+
+[2019.08.15-17.12.07:391][235]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.08.15-17.12.07:639][235]LogSavePackage: Moving 'E:/__source/unrealProjetos/unrealPyActor/Saved/Minimal_DefaultFB59FD8446A2517582C1FB83A9812284.tmp' to 'E:/__source/unrealProjetos/unrealPyActor/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.08.15-17.12.07:682][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="E:/__source/unrealProjetos/unrealPyActor/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.08.15-17.12.07:778][235]LogSavePackage: Moving 'E:/__source/unrealProjetos/unrealPyActor/Saved/Minimal_Default_BuiltDataA235238641CB122F6AF85F88E2D42334.tmp' to 'E:/__source/unrealProjetos/unrealPyActor/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.08.15-17.12.30:275][635]LogPython: Ola este é seu pipeline automator
+[2019.08.15-17.12.30:275][635]LogPython: 
+
+[2019.08.15-17.12.38:925][604]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.15-17.12.38:937][604]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.12.38:939][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.15-17.12.38:939][604]PIE: New page: PIE session: Minimal_Default (Aug 15, 2019, 11:12:38 AM)
+[2019.08.15-17.12.38:939][604]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.08.15-17.12.38:944][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004273s)
+[2019.08.15-17.12.38:944][604]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.15-17.12.38:945][604]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2019.08.15-17.12.38:945][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005798s)
+[2019.08.15-17.12.38:978][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2019.08.15-17.12.39:007][604]LogInit: XAudio2 using 'Alto-falantes (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.15-17.12.39:019][604]LogInit: FAudioDevice initialized.
+[2019.08.15-17.12.39:046][604]LogLoad: Game class is 'GameModeBase'
+[2019.08.15-17.12.39:048][604]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.08.15-14.12.39
+[2019.08.15-17.12.39:049][604]LogPython: Error: source code string cannot contain null bytes
+[2019.08.15-17.12.39:049][604]LogWorld: Bringing up level for play took: 0.002298
+[2019.08.15-17.12.39:062][604]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.195
+[2019.08.15-17.12.39:062][604]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.12.44:077][201]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.12.44:079][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.12.44:106][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.15-17.12.44:106][201]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.12.44:145][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.12.44:151][201]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2019.08.15-17.12.44:182][204]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.08.15-17.18.39:955][271]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.15-17.18.39:966][271]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.18.39:968][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.15-17.18.39:968][271]PIE: New page: PIE session: Minimal_Default (Aug 15, 2019, 11:18:39 AM)
+[2019.08.15-17.18.39:968][271]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.08.15-17.18.39:973][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004505s)
+[2019.08.15-17.18.39:974][271]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.15-17.18.39:990][271]LogPlayLevel: PIE: World Init took: (0.016336s)
+[2019.08.15-17.18.39:990][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.021665s)
+[2019.08.15-17.18.40:026][271]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.08.15-17.18.40:054][271]LogInit: XAudio2 using 'Alto-falantes (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.15-17.18.40:067][271]LogInit: FAudioDevice initialized.
+[2019.08.15-17.18.40:092][271]LogLoad: Game class is 'GameModeBase'
+[2019.08.15-17.18.40:093][271]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.08.15-14.18.40
+[2019.08.15-17.18.40:094][271]LogPython: Error: source code string cannot contain null bytes
+[2019.08.15-17.18.40:095][271]LogWorld: Bringing up level for play took: 0.002302
+[2019.08.15-17.18.40:108][271]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.83
+[2019.08.15-17.18.40:109][271]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.18.49:797][429]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.18.49:798][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.18.49:830][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.15-17.18.49:831][429]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.18.49:868][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.18.49:874][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.08.15-17.18.49:900][430]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.08.15-17.18.57:633][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.20.46:349][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jads/Blueprints/BP_Actor_python" FILE="E:/__source/unrealProjetos/unrealPyActor/Content/Jads/Blueprints/BP_Actor_python.uasset" SILENT=true
+[2019.08.15-17.20.46:376][457]LogSavePackage: Moving 'E:/__source/unrealProjetos/unrealPyActor/Saved/BP_Actor_pythonFFABC1E946CE709C3C4A0C8F5BE122DC.tmp' to 'E:/__source/unrealProjetos/unrealPyActor/Content/Jads/Blueprints/BP_Actor_python.uasset'
+[2019.08.15-17.20.47:290][565]BlueprintLog: New page: Compile BP_Actor_python
+[2019.08.15-17.20.47:510][565]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2019.08.15-17.20.47:514][565]LogPython: Error: source code string cannot contain null bytes
+[2019.08.15-17.20.48:580][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jads/Blueprints/BP_Actor_python" FILE="E:/__source/unrealProjetos/unrealPyActor/Content/Jads/Blueprints/BP_Actor_python.uasset" SILENT=true
+[2019.08.15-17.20.48:601][684]LogSavePackage: Moving 'E:/__source/unrealProjetos/unrealPyActor/Saved/BP_Actor_pythonB73B2952418D7531A11FF1A72B89E28E.tmp' to 'E:/__source/unrealProjetos/unrealPyActor/Content/Jads/Blueprints/BP_Actor_python.uasset'
+[2019.08.15-17.20.57:819][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jads/Blueprints/BP_Actor_python" FILE="E:/__source/unrealProjetos/unrealPyActor/Content/Jads/Blueprints/BP_Actor_python.uasset" SILENT=true
+[2019.08.15-17.20.57:833][783]LogSavePackage: Moving 'E:/__source/unrealProjetos/unrealPyActor/Saved/BP_Actor_pythonCF0BF91B4D8B46123885B9AB82AFA855.tmp' to 'E:/__source/unrealProjetos/unrealPyActor/Content/Jads/Blueprints/BP_Actor_python.uasset'
+[2019.08.15-17.21.02:428][313]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2019.08.15-17.21.02:655][313]LogSavePackage: Moving 'E:/__source/unrealProjetos/unrealPyActor/Saved/Minimal_Default8FD8F57D4DC472F8C8BDD2930FB32A2B.tmp' to 'E:/__source/unrealProjetos/unrealPyActor/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.08.15-17.21.02:680][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="E:/__source/unrealProjetos/unrealPyActor/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.08.15-17.21.02:729][313]LogSavePackage: Moving 'E:/__source/unrealProjetos/unrealPyActor/Saved/Minimal_Default_BuiltData06B845D846ADAB387C0055A1F6B98C87.tmp' to 'E:/__source/unrealProjetos/unrealPyActor/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.08.15-17.21.06:491][748]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.15-17.21.06:507][748]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.21.06:509][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.15-17.21.06:509][748]PIE: New page: PIE session: Minimal_Default (Aug 15, 2019, 11:21:06 AM)
+[2019.08.15-17.21.06:509][748]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.08.15-17.21.06:514][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004134s)
+[2019.08.15-17.21.06:515][748]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.15-17.21.06:515][748]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2019.08.15-17.21.06:515][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005889s)
+[2019.08.15-17.21.06:548][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.08.15-17.21.06:577][748]LogInit: XAudio2 using 'Alto-falantes (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.15-17.21.06:589][748]LogInit: FAudioDevice initialized.
+[2019.08.15-17.21.06:619][748]LogLoad: Game class is 'GameModeBase'
+[2019.08.15-17.21.06:620][748]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.08.15-14.21.06
+[2019.08.15-17.21.06:621][748]LogPython: Error: source code string cannot contain null bytes
+[2019.08.15-17.21.06:622][748]LogWorld: Bringing up level for play took: 0.002240
+[2019.08.15-17.21.06:635][748]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.643
+[2019.08.15-17.21.06:635][748]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.21.15:467][803]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.21.15:469][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.21.15:496][803]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.15-17.21.15:496][803]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.21.15:535][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.21.15:541][803]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.08.15-17.21.15:567][804]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.08.15-17.21.23:365][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.24.05:723][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2019.08.15-17.24.06:820][464]LogEditorViewport: Clicking on Actor (LMB): BP_Actor_python_C (BP_Actor_python)
+[2019.08.15-17.24.08:673][659]Cmd: DELETE
+[2019.08.15-17.24.08:673][659]Cmd: ACTOR DELETE
+[2019.08.15-17.24.09:003][659]LogEditorActor: Deleted Actor: BP_Actor_python_C
+[2019.08.15-17.24.09:045][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.08.15-17.24.09:045][659]LogEditorActor: Deleted 1 Actors (0.096 secs)
+[2019.08.15-17.24.11:122][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.24.19:094][788]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.15-17.24.19:109][788]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.24.19:110][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.15-17.24.19:110][788]PIE: New page: PIE session: Minimal_Default (Aug 15, 2019, 11:24:19 AM)
+[2019.08.15-17.24.19:111][788]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.08.15-17.24.19:115][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004018s)
+[2019.08.15-17.24.19:116][788]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.15-17.24.19:116][788]LogPlayLevel: PIE: World Init took: (0.001062s)
+[2019.08.15-17.24.19:117][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005863s)
+[2019.08.15-17.24.19:150][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.08.15-17.24.19:178][788]LogInit: XAudio2 using 'Alto-falantes (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.15-17.24.19:191][788]LogInit: FAudioDevice initialized.
+[2019.08.15-17.24.19:219][788]LogLoad: Game class is 'GameModeBase'
+[2019.08.15-17.24.19:220][788]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.08.15-14.24.19
+[2019.08.15-17.24.19:221][788]LogWorld: Bringing up level for play took: 0.001349
+[2019.08.15-17.24.19:234][788]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.045
+[2019.08.15-17.24.19:234][788]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.24.23:030][239]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.24.23:032][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.24.23:062][239]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.15-17.24.23:063][239]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.24.23:102][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.24.23:107][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.08.15-17.24.23:133][241]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.08.15-17.24.37:906][ 12]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.15-17.24.37:922][ 12]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.24.37:922][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.15-17.24.37:922][ 12]PIE: New page: PIE session: Minimal_Default (Aug 15, 2019, 11:24:37 AM)
+[2019.08.15-17.24.37:922][ 12]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.08.15-17.24.37:926][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003969s)
+[2019.08.15-17.24.37:927][ 12]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.15-17.24.37:927][ 12]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2019.08.15-17.24.37:927][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004870s)
+[2019.08.15-17.24.37:965][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.08.15-17.24.37:994][ 12]LogInit: XAudio2 using 'Alto-falantes (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.15-17.24.38:005][ 12]LogInit: FAudioDevice initialized.
+[2019.08.15-17.24.38:030][ 12]LogLoad: Game class is 'GameModeBase'
+[2019.08.15-17.24.38:031][ 12]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.08.15-14.24.38
+[2019.08.15-17.24.38:031][ 12]LogWorld: Bringing up level for play took: 0.000996
+[2019.08.15-17.24.38:044][ 12]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.766
+[2019.08.15-17.24.38:044][ 12]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.24.40:616][316]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.24.40:617][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.24.40:643][316]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.15-17.24.40:644][316]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.24.40:682][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.24.40:688][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.08.15-17.24.40:720][319]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.08.15-17.25.01:538][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.25.11:329][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2019.08.15-17.25.14:802][128]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.08.15-17.25.20:430][755]LogEditorViewport: Clicking on Actor (LMB): BP_Actor_python_C (BP_Actor_python)
+[2019.08.15-17.25.25:350][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.25.50:861][311]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.08.15-17.25.51:084][311]LogSavePackage: Moving 'E:/__source/unrealProjetos/unrealPyActor/Saved/Minimal_DefaultECBB2F7A49D3426AF07054BE0F9A9C8C.tmp' to 'E:/__source/unrealProjetos/unrealPyActor/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.08.15-17.25.51:112][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="E:/__source/unrealProjetos/unrealPyActor/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.08.15-17.25.51:155][311]LogSavePackage: Moving 'E:/__source/unrealProjetos/unrealPyActor/Saved/Minimal_Default_BuiltDataA216E54341D5F1661120848EB94298A5.tmp' to 'E:/__source/unrealProjetos/unrealPyActor/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.08.15-17.26.00:449][410]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.15-17.26.00:462][410]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.26.00:462][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.15-17.26.00:462][410]PIE: New page: PIE session: Minimal_Default (Aug 15, 2019, 11:26:00 AM)
+[2019.08.15-17.26.00:462][410]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.08.15-17.26.00:466][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004235s)
+[2019.08.15-17.26.00:467][410]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.15-17.26.00:467][410]LogPlayLevel: PIE: World Init took: (0.000736s)
+[2019.08.15-17.26.00:467][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005206s)
+[2019.08.15-17.26.00:499][410]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2019.08.15-17.26.00:527][410]LogInit: XAudio2 using 'Alto-falantes (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.15-17.26.00:540][410]LogInit: FAudioDevice initialized.
+[2019.08.15-17.26.00:572][410]LogLoad: Game class is 'GameModeBase'
+[2019.08.15-17.26.00:573][410]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.08.15-14.26.00
+[2019.08.15-17.26.00:574][410]LogPython: Error: source code string cannot contain null bytes
+[2019.08.15-17.26.00:574][410]LogWorld: Bringing up level for play took: 0.001682
+[2019.08.15-17.26.00:587][410]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.691
+[2019.08.15-17.26.00:587][410]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.26.02:310][612]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.26.02:311][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.26.02:339][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.15-17.26.02:339][612]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.26.02:378][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.26.02:384][612]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.08.15-17.26.02:416][615]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.08.15-17.28.08:376][189]LogLinker: Warning: Can't find file '/Game/Jads/Blueprints/BP_Spiral'
+[2019.08.15-17.28.08:376][189]LogLinker: Warning: Can't find file '/Game/Jads/Blueprints/BP_Spiral'
+[2019.08.15-17.28.08:377][189]LogUObjectGlobals: Warning: Failed to find object 'BlueprintGeneratedClass /Game/Jads/Blueprints/BP_Spiral.BP_Spiral'
+[2019.08.15-17.28.08:377][189]LogPython: Error: unable to load object /Game/Jads/Blueprints/BP_Spiral.BP_Spiral
+[2019.08.15-17.28.08:400][189]LogPython: Error: Traceback (most recent call last):
+
+[2019.08.15-17.28.08:400][189]LogPython: Error:   File "<string>", line 14, in <module>
+
+[2019.08.15-17.28.08:400][189]LogPython: Error: Exception: unable to load object /Game/Jads/Blueprints/BP_Spiral.BP_Spiral
+
+[2019.08.15-17.29.09:423][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.29.09:531][508]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.15-17.29.09:543][508]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.29.09:543][508]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.15-17.29.09:544][508]PIE: New page: PIE session: Minimal_Default (Aug 15, 2019, 11:29:09 AM)
+[2019.08.15-17.29.09:544][508]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.08.15-17.29.09:548][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004366s)
+[2019.08.15-17.29.09:549][508]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.15-17.29.09:549][508]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2019.08.15-17.29.09:550][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005719s)
+[2019.08.15-17.29.09:586][508]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.08.15-17.29.09:614][508]LogInit: XAudio2 using 'Alto-falantes (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.15-17.29.09:627][508]LogInit: FAudioDevice initialized.
+[2019.08.15-17.29.09:656][508]LogLoad: Game class is 'GameModeBase'
+[2019.08.15-17.29.09:657][508]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.08.15-14.29.09
+[2019.08.15-17.29.09:658][508]LogPython: Error: source code string cannot contain null bytes
+[2019.08.15-17.29.09:658][508]LogWorld: Bringing up level for play took: 0.001978
+[2019.08.15-17.29.09:671][508]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.393
+[2019.08.15-17.29.09:671][508]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.30.13:989][109]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.30.13:990][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.30.14:022][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.15-17.30.14:023][109]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.30.14:063][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.30.14:068][109]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.08.15-17.30.14:092][111]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.08.15-17.36.52:771][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2019.08.15-17.37.00:469][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.37.04:660][713]LogEditorViewport: Clicking on Actor (LMB): BP_Actor_python_C (BP_Actor_python)
+[2019.08.15-17.37.06:756][959]Cmd: DELETE
+[2019.08.15-17.37.06:756][959]Cmd: ACTOR DELETE
+[2019.08.15-17.37.06:758][959]LogEditorActor: Deleted Actor: BP_Actor_python_C
+[2019.08.15-17.37.06:796][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.08.15-17.37.06:797][959]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2019.08.15-17.37.09:676][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.37.09:767][315]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.15-17.37.09:782][315]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.37.09:783][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.15-17.37.09:783][315]PIE: New page: PIE session: Minimal_Default (Aug 15, 2019, 11:37:09 AM)
+[2019.08.15-17.37.09:783][315]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.08.15-17.37.09:788][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004106s)
+[2019.08.15-17.37.09:789][315]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.15-17.37.09:789][315]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2019.08.15-17.37.09:789][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005583s)
+[2019.08.15-17.37.09:820][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.08.15-17.37.09:848][315]LogInit: XAudio2 using 'Alto-falantes (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.15-17.37.09:861][315]LogInit: FAudioDevice initialized.
+[2019.08.15-17.37.09:892][315]LogLoad: Game class is 'GameModeBase'
+[2019.08.15-17.37.09:893][315]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.08.15-14.37.09
+[2019.08.15-17.37.09:894][315]LogWorld: Bringing up level for play took: 0.001198
+[2019.08.15-17.37.09:906][315]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.623
+[2019.08.15-17.37.09:906][315]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.37.12:282][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.37.12:283][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.37.12:309][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.15-17.37.12:309][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.37.12:348][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.37.12:353][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.08.15-17.37.12:385][595]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.08.15-17.37.21:209][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.37.26:921][959]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Jads/Blueprints/BP_Cubo.BP_Cubo
+[2019.08.15-17.38.15:200][275]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Jads/Blueprints/BP_PyActor.BP_PyActor
+[2019.08.15-17.38.47:428][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.39.30:416][180]BlueprintLog: New page: Compile BP_PyActor
+[2019.08.15-17.39.30:647][180]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.08.15-17.39.30:650][180]LogPython: Error: source code string cannot contain null bytes
+[2019.08.15-17.39.32:252][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jads/Blueprints/BP_PyActor" FILE="E:/__source/unrealProjetos/unrealPyActor/Content/Jads/Blueprints/BP_PyActor.uasset" SILENT=true
+[2019.08.15-17.39.32:281][365]LogSavePackage: Moving 'E:/__source/unrealProjetos/unrealPyActor/Saved/BP_PyActor4DCFBCBA4689818C3075D7985BC37242.tmp' to 'E:/__source/unrealProjetos/unrealPyActor/Content/Jads/Blueprints/BP_PyActor.uasset'
+[2019.08.15-17.39.44:373][751]LogEditorViewport: Clicking on Actor (LMB): BP_PyActor_C (BP_PyActor)
+[2019.08.15-17.39.45:971][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.40.09:747][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.40.09:888][759]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.15-17.40.09:905][759]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.40.09:905][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.15-17.40.09:906][759]PIE: New page: PIE session: Minimal_Default (Aug 15, 2019, 11:40:09 AM)
+[2019.08.15-17.40.09:906][759]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.08.15-17.40.09:910][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004085s)
+[2019.08.15-17.40.09:911][759]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.15-17.40.09:911][759]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2019.08.15-17.40.09:911][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005237s)
+[2019.08.15-17.40.09:953][759]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2019.08.15-17.40.09:982][759]LogInit: XAudio2 using 'Alto-falantes (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.15-17.40.09:995][759]LogInit: FAudioDevice initialized.
+[2019.08.15-17.40.10:022][759]LogLoad: Game class is 'GameModeBase'
+[2019.08.15-17.40.10:023][759]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.08.15-14.40.10
+[2019.08.15-17.40.10:024][759]LogPython: Error: source code string cannot contain null bytes
+[2019.08.15-17.40.10:024][759]LogWorld: Bringing up level for play took: 0.001934
+[2019.08.15-17.40.10:037][759]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.754
+[2019.08.15-17.40.10:037][759]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.40.22:244][219]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.40.22:245][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.40.22:277][219]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.15-17.40.22:277][219]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.40.22:320][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.40.22:326][219]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.08.15-17.40.22:351][220]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.08.15-17.40.24:751][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.46.01:782][373]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.15-17.46.01:801][373]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.46.01:802][373]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.15-17.46.01:802][373]PIE: New page: PIE session: Minimal_Default (Aug 15, 2019, 11:46:01 AM)
+[2019.08.15-17.46.01:803][373]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.08.15-17.46.01:807][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004389s)
+[2019.08.15-17.46.01:808][373]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.15-17.46.01:809][373]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2019.08.15-17.46.01:809][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006217s)
+[2019.08.15-17.46.01:852][373]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.08.15-17.46.01:881][373]LogInit: XAudio2 using 'Alto-falantes (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.15-17.46.01:894][373]LogInit: FAudioDevice initialized.
+[2019.08.15-17.46.01:920][373]LogLoad: Game class is 'GameModeBase'
+[2019.08.15-17.46.01:921][373]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.08.15-14.46.01
+[2019.08.15-17.46.01:922][373]LogPython: Error: source code string cannot contain null bytes
+[2019.08.15-17.46.01:923][373]LogWorld: Bringing up level for play took: 0.002341
+[2019.08.15-17.46.01:936][373]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.652
+[2019.08.15-17.46.01:937][373]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.46.05:592][807]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.46.05:594][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.46.05:622][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.15-17.46.05:622][807]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.46.05:667][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.46.05:672][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.08.15-17.46.05:696][809]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.08.15-17.47.07:421][193]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.15-17.47.07:437][193]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.47.07:437][193]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.15-17.47.07:437][193]PIE: New page: PIE session: Minimal_Default (Aug 15, 2019, 11:47:07 AM)
+[2019.08.15-17.47.07:438][193]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.08.15-17.47.07:442][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004138s)
+[2019.08.15-17.47.07:443][193]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.15-17.47.07:443][193]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2019.08.15-17.47.07:443][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005317s)
+[2019.08.15-17.47.07:482][193]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.08.15-17.47.07:510][193]LogInit: XAudio2 using 'Alto-falantes (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.15-17.47.07:523][193]LogInit: FAudioDevice initialized.
+[2019.08.15-17.47.07:549][193]LogLoad: Game class is 'GameModeBase'
+[2019.08.15-17.47.07:550][193]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.08.15-14.47.07
+[2019.08.15-17.47.07:551][193]LogPython: Error: source code string cannot contain null bytes
+[2019.08.15-17.47.07:551][193]LogWorld: Bringing up level for play took: 0.001918
+[2019.08.15-17.47.07:564][193]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.28
+[2019.08.15-17.47.07:564][193]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.47.14:147][978]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.47.14:148][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.47.14:182][978]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.15-17.47.14:182][978]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.47.14:226][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.47.14:232][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.08.15-17.47.14:247][979]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.08.15-17.47.30:821][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jads/Blueprints/BP_PyActor" FILE="E:/__source/unrealProjetos/unrealPyActor/Content/Jads/Blueprints/BP_PyActor.uasset" SILENT=true
+[2019.08.15-17.47.30:850][944]LogSavePackage: Moving 'E:/__source/unrealProjetos/unrealPyActor/Saved/BP_PyActorCE2E274948EFA92D063BFA8ABF712510.tmp' to 'E:/__source/unrealProjetos/unrealPyActor/Content/Jads/Blueprints/BP_PyActor.uasset'
+[2019.08.15-17.47.42:455][331]BlueprintLog: New page: Compile BP_PyActor
+[2019.08.15-17.47.42:689][331]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.08.15-17.47.43:636][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jads/Blueprints/BP_PyActor" FILE="E:/__source/unrealProjetos/unrealPyActor/Content/Jads/Blueprints/BP_PyActor.uasset" SILENT=true
+[2019.08.15-17.47.43:659][438]LogSavePackage: Moving 'E:/__source/unrealProjetos/unrealPyActor/Saved/BP_PyActor9B2F80B349DB6E6A44C083A70EA628BE.tmp' to 'E:/__source/unrealProjetos/unrealPyActor/Content/Jads/Blueprints/BP_PyActor.uasset'
+[2019.08.15-17.47.57:536][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.47.57:677][111]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.15-17.47.57:697][111]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.47.57:698][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.15-17.47.57:698][111]PIE: New page: PIE session: Minimal_Default (Aug 15, 2019, 11:47:57 AM)
+[2019.08.15-17.47.57:699][111]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.08.15-17.47.57:703][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004112s)
+[2019.08.15-17.47.57:704][111]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.15-17.47.57:704][111]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2019.08.15-17.47.57:705][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005800s)
+[2019.08.15-17.47.57:743][111]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2019.08.15-17.47.57:772][111]LogInit: XAudio2 using 'Alto-falantes (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.15-17.47.57:784][111]LogInit: FAudioDevice initialized.
+[2019.08.15-17.47.57:812][111]LogLoad: Game class is 'GameModeBase'
+[2019.08.15-17.47.57:813][111]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.08.15-14.47.57
+[2019.08.15-17.47.57:814][111]LogWorld: Bringing up level for play took: 0.001426
+[2019.08.15-17.47.57:827][111]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.543
+[2019.08.15-17.47.57:827][111]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.48.02:801][702]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.48.02:803][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.48.02:837][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.15-17.48.02:837][702]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.48.02:879][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.48.02:886][702]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2019.08.15-17.48.02:901][703]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.08.15-17.48.09:221][459]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.08.15-17.48.13:221][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.48.17:891][448]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.08.15-17.48.19:740][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.48.25:211][311]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.08.15-17.48.28:000][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.48.28:198][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.08.15-17.48.28:436][658]LogSavePackage: Moving 'E:/__source/unrealProjetos/unrealPyActor/Saved/Minimal_DefaultCEA69B134A91EE18DC8DB18BC5F79C1B.tmp' to 'E:/__source/unrealProjetos/unrealPyActor/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.08.15-17.48.28:463][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="E:/__source/unrealProjetos/unrealPyActor/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.08.15-17.48.28:513][658]LogSavePackage: Moving 'E:/__source/unrealProjetos/unrealPyActor/Saved/Minimal_Default_BuiltDataC79A5565447FF6126C735DAE2EA713D8.tmp' to 'E:/__source/unrealProjetos/unrealPyActor/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.08.15-17.48.30:783][922]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.08.15-17.48.33:827][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.48.33:969][298]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.15-17.48.33:983][298]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.48.33:985][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.15-17.48.33:985][298]PIE: New page: PIE session: Minimal_Default (Aug 15, 2019, 11:48:33 AM)
+[2019.08.15-17.48.33:985][298]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.08.15-17.48.33:990][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004438s)
+[2019.08.15-17.48.33:991][298]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.15-17.48.33:992][298]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2019.08.15-17.48.33:992][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006392s)
+[2019.08.15-17.48.34:032][298]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2019.08.15-17.48.34:061][298]LogInit: XAudio2 using 'Alto-falantes (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.15-17.48.34:074][298]LogInit: FAudioDevice initialized.
+[2019.08.15-17.48.34:100][298]LogLoad: Game class is 'GameModeBase'
+[2019.08.15-17.48.34:101][298]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.08.15-14.48.34
+[2019.08.15-17.48.34:102][298]LogWorld: Bringing up level for play took: 0.001424
+[2019.08.15-17.48.34:115][298]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.83
+[2019.08.15-17.48.34:115][298]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.48.42:282][272]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.48.42:284][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.48.42:312][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.15-17.48.42:313][272]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.48.42:354][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.48.42:361][272]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2019.08.15-17.48.42:383][274]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.08.15-17.48.56:003][896]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.15-17.49.02:481][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.49.22:389][ 34]BlueprintLog: New page: Compile BP_PyActor
+[2019.08.15-17.49.22:641][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2019.08.15-17.49.22:644][ 34]LogPython: Error: source code string cannot contain null bytes
+[2019.08.15-17.49.23:439][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jads/Blueprints/BP_PyActor" FILE="E:/__source/unrealProjetos/unrealPyActor/Content/Jads/Blueprints/BP_PyActor.uasset" SILENT=true
+[2019.08.15-17.49.23:464][123]LogSavePackage: Moving 'E:/__source/unrealProjetos/unrealPyActor/Saved/BP_PyActor36355A1344AC7123F1DD16AEA4ACDAFF.tmp' to 'E:/__source/unrealProjetos/unrealPyActor/Content/Jads/Blueprints/BP_PyActor.uasset'
+[2019.08.15-17.49.42:562][409]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.15-17.49.42:578][409]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.49.42:580][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.15-17.49.42:580][409]PIE: New page: PIE session: Minimal_Default (Aug 15, 2019, 11:49:42 AM)
+[2019.08.15-17.49.42:580][409]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.08.15-17.49.42:585][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004044s)
+[2019.08.15-17.49.42:585][409]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.15-17.49.42:586][409]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2019.08.15-17.49.42:586][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005765s)
+[2019.08.15-17.49.42:646][409]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2019.08.15-17.49.42:675][409]LogInit: XAudio2 using 'Alto-falantes (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.15-17.49.42:688][409]LogInit: FAudioDevice initialized.
+[2019.08.15-17.49.42:720][409]LogLoad: Game class is 'GameModeBase'
+[2019.08.15-17.49.42:721][409]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.08.15-14.49.42
+[2019.08.15-17.49.42:722][409]LogPython: Error: source code string cannot contain null bytes
+[2019.08.15-17.49.42:723][409]LogWorld: Bringing up level for play took: 0.002297
+[2019.08.15-17.49.42:736][409]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.549
+[2019.08.15-17.49.42:737][409]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.49.47:184][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.49.47:302][923]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.49.47:304][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.49.47:332][923]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.15-17.49.47:333][923]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.49.47:367][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.49.47:372][923]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.08.15-17.49.47:402][926]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.08.15-17.49.48:569][ 66]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.15-17.49.48:580][ 66]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.49.48:581][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.15-17.49.48:582][ 66]PIE: New page: PIE session: Minimal_Default (Aug 15, 2019, 11:49:48 AM)
+[2019.08.15-17.49.48:582][ 66]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.08.15-17.49.48:586][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003930s)
+[2019.08.15-17.49.48:587][ 66]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.15-17.49.48:587][ 66]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2019.08.15-17.49.48:587][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005538s)
+[2019.08.15-17.49.48:615][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.08.15-17.49.48:643][ 66]LogInit: XAudio2 using 'Alto-falantes (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.15-17.49.48:655][ 66]LogInit: FAudioDevice initialized.
+[2019.08.15-17.49.48:681][ 66]LogLoad: Game class is 'GameModeBase'
+[2019.08.15-17.49.48:682][ 66]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.08.15-14.49.48
+[2019.08.15-17.49.48:683][ 66]LogPython: Error: source code string cannot contain null bytes
+[2019.08.15-17.49.48:683][ 66]LogWorld: Bringing up level for play took: 0.002144
+[2019.08.15-17.49.48:696][ 66]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.589
+[2019.08.15-17.49.48:696][ 66]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.49.51:274][371]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.49.51:275][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.49.51:307][371]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.15-17.49.51:307][371]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.49.51:343][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.49.51:348][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.08.15-17.49.51:377][374]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.08.15-17.51.04:544][145]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.15-17.51.04:555][145]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.51.04:556][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.15-17.51.04:556][145]PIE: New page: PIE session: Minimal_Default (Aug 15, 2019, 11:51:04 AM)
+[2019.08.15-17.51.04:557][145]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.08.15-17.51.04:561][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004020s)
+[2019.08.15-17.51.04:561][145]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.15-17.51.04:562][145]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2019.08.15-17.51.04:562][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005261s)
+[2019.08.15-17.51.04:591][145]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.08.15-17.51.04:620][145]LogInit: XAudio2 using 'Alto-falantes (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.15-17.51.04:632][145]LogInit: FAudioDevice initialized.
+[2019.08.15-17.51.04:661][145]LogLoad: Game class is 'GameModeBase'
+[2019.08.15-17.51.04:662][145]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.08.15-14.51.04
+[2019.08.15-17.51.04:663][145]LogPython: Error: source code string cannot contain null bytes
+[2019.08.15-17.51.04:663][145]LogWorld: Bringing up level for play took: 0.001942
+[2019.08.15-17.51.04:677][145]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.609
+[2019.08.15-17.51.04:678][145]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.51.49:377][498]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.51.49:378][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.51.49:405][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.15-17.51.49:405][498]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.51.49:441][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.51.49:446][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.08.15-17.51.49:484][502]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.08.15-17.52.38:143][  9]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.15-17.52.38:155][  9]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.52.38:156][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.15-17.52.38:156][  9]PIE: New page: PIE session: Minimal_Default (Aug 15, 2019, 11:52:38 AM)
+[2019.08.15-17.52.38:157][  9]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.08.15-17.52.38:161][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004064s)
+[2019.08.15-17.52.38:162][  9]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.15-17.52.38:162][  9]LogPlayLevel: PIE: World Init took: (0.000988s)
+[2019.08.15-17.52.38:163][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005861s)
+[2019.08.15-17.52.38:195][  9]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.08.15-17.52.38:223][  9]LogInit: XAudio2 using 'Alto-falantes (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.15-17.52.38:236][  9]LogInit: FAudioDevice initialized.
+[2019.08.15-17.52.38:242][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.52.38:275][  9]LogLoad: Game class is 'GameModeBase'
+[2019.08.15-17.52.38:277][  9]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.08.15-14.52.38
+[2019.08.15-17.52.38:278][  9]LogPython: Error: source code string cannot contain null bytes
+[2019.08.15-17.52.38:278][  9]LogWorld: Bringing up level for play took: 0.002300
+[2019.08.15-17.52.38:292][  9]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.006
+[2019.08.15-17.52.38:293][  9]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.52.42:897][555]LogSlate: Window 'UnrealPython Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.15-17.52.42:901][555]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.52.42:935][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.15-17.52.42:936][555]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.52.42:977][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.08.15-17.52.43:021][556]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.08.15-17.53.04:809][163]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.15-17.53.04:821][163]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.53.04:821][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.15-17.53.04:821][163]PIE: New page: PIE session: Minimal_Default (Aug 15, 2019, 11:53:04 AM)
+[2019.08.15-17.53.04:821][163]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.08.15-17.53.04:825][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004135s)
+[2019.08.15-17.53.04:826][163]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.15-17.53.04:826][163]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2019.08.15-17.53.04:826][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005086s)
+[2019.08.15-17.53.04:857][163]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.08.15-17.53.04:885][163]LogInit: XAudio2 using 'Alto-falantes (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.15-17.53.04:897][163]LogInit: FAudioDevice initialized.
+[2019.08.15-17.53.04:903][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.53.04:935][163]LogLoad: Game class is 'GameModeBase'
+[2019.08.15-17.53.04:937][163]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.08.15-14.53.04
+[2019.08.15-17.53.04:937][163]LogPython: Error: source code string cannot contain null bytes
+[2019.08.15-17.53.04:938][163]LogWorld: Bringing up level for play took: 0.001871
+[2019.08.15-17.53.04:952][163]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.334
+[2019.08.15-17.53.04:952][163]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.53.09:655][722]LogSlate: Window 'UnrealPython Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.15-17.53.09:659][722]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.53.09:687][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.15-17.53.09:688][722]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.53.09:731][722]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.08.15-17.53.09:774][723]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.08.15-17.58.30:148][113]LogEditorViewport: Clicking on Actor (LMB): BP_PyActor_C (BP_PyActor)
+[2019.08.15-17.58.38:805][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.58.44:266][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.08.15-17.58.44:465][785]LogSavePackage: Moving 'E:/__source/unrealProjetos/unrealPyActor/Saved/Minimal_Default1EA04F074407F1F4D02A04AFD2003381.tmp' to 'E:/__source/unrealProjetos/unrealPyActor/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.08.15-17.58.44:492][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="E:/__source/unrealProjetos/unrealPyActor/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.08.15-17.58.44:542][785]LogSavePackage: Moving 'E:/__source/unrealProjetos/unrealPyActor/Saved/Minimal_Default_BuiltData52B6138E4AEDEC03C66ED9AFCEDE927B.tmp' to 'E:/__source/unrealProjetos/unrealPyActor/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.08.15-17.58.53:126][778]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.15-17.58.53:137][778]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.58.53:137][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.15-17.58.53:137][778]PIE: New page: PIE session: Minimal_Default (Aug 15, 2019, 11:58:53 AM)
+[2019.08.15-17.58.53:137][778]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.08.15-17.58.53:142][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004108s)
+[2019.08.15-17.58.53:142][778]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.15-17.58.53:142][778]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2019.08.15-17.58.53:143][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005114s)
+[2019.08.15-17.58.53:175][778]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.08.15-17.58.53:204][778]LogInit: XAudio2 using 'Alto-falantes (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.15-17.58.53:219][778]LogInit: FAudioDevice initialized.
+[2019.08.15-17.58.53:249][778]LogLoad: Game class is 'GameModeBase'
+[2019.08.15-17.58.53:250][778]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.08.15-14.58.53
+[2019.08.15-17.58.53:250][778]LogWorld: Bringing up level for play took: 0.001057
+[2019.08.15-17.58.53:263][778]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.024
+[2019.08.15-17.58.53:263][778]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.58.56:420][152]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.58.56:421][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.58.56:454][152]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.15-17.58.56:455][152]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.08.15-17.58.56:489][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.58.56:495][152]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.08.15-17.58.56:525][155]LogPlayLevel: Display: Destroying online subsystem :Context_29
