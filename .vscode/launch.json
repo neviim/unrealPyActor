@@ -1,0 +1,128 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "UnrealPython (Debug)",
+			"request": "launch",
+			"preLaunchTask": "UnrealPython Win64 Debug Build",
+			"program": "E:\\__source\\unrealProjetos\\unrealPyActor\\Binaries\\Win64\\UnrealPython-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "F:\\__Utilitarios\\Epic Games\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\__Utilitarios\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "UnrealPython (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "UnrealPython Win64 DebugGame Build",
+			"program": "E:\\__source\\unrealProjetos\\unrealPyActor\\Binaries\\Win64\\UnrealPython-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "F:\\__Utilitarios\\Epic Games\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\__Utilitarios\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "UnrealPython (Development)",
+			"request": "launch",
+			"preLaunchTask": "UnrealPython Win64 Development Build",
+			"program": "E:\\__source\\unrealProjetos\\unrealPyActor\\Binaries\\Win64\\UnrealPython.exe",
+			"args": [
+			],
+			"cwd": "F:\\__Utilitarios\\Epic Games\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\__Utilitarios\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "UnrealPython (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "UnrealPython Win64 Shipping Build",
+			"program": "E:\\__source\\unrealProjetos\\unrealPyActor\\Binaries\\Win64\\UnrealPython-Win64-Shipping.exe",
+			"args": [
+			],
+			"cwd": "F:\\__Utilitarios\\Epic Games\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\__Utilitarios\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "UnrealPython (Test)",
+			"request": "launch",
+			"preLaunchTask": "UnrealPython Win64 Test Build",
+			"program": "E:\\__source\\unrealProjetos\\unrealPyActor\\Binaries\\Win64\\UnrealPython-Win64-Test.exe",
+			"args": [
+			],
+			"cwd": "F:\\__Utilitarios\\Epic Games\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\__Utilitarios\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "UnrealPythonEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "UnrealPythonEditor Win64 Debug Build",
+			"program": "F:\\__Utilitarios\\Epic Games\\UE_4.22\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"args": [
+				"E:\\__source\\unrealProjetos\\unrealPyActor\\UnrealPython.uproject"
+			],
+			"cwd": "F:\\__Utilitarios\\Epic Games\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\__Utilitarios\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "UnrealPythonEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "UnrealPythonEditor Win64 DebugGame Build",
+			"program": "F:\\__Utilitarios\\Epic Games\\UE_4.22\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"E:\\__source\\unrealProjetos\\unrealPyActor\\UnrealPython.uproject"
+			],
+			"cwd": "F:\\__Utilitarios\\Epic Games\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\__Utilitarios\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "UnrealPythonEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "UnrealPythonEditor Win64 Development Build",
+			"program": "F:\\__Utilitarios\\Epic Games\\UE_4.22\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"E:\\__source\\unrealProjetos\\unrealPyActor\\UnrealPython.uproject"
+			],
+			"cwd": "F:\\__Utilitarios\\Epic Games\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\__Utilitarios\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "clr",
+			"request": "launch",
+			"program": "F:\\__Utilitarios\\Epic Games\\UE_4.22\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"console": "externalTerminal",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=\"E:\\__source\\unrealProjetos\\unrealPyActor\\UnrealPython.uproject\"",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "F:\\__Utilitarios\\Epic Games\\UE_4.22"
+		}
+	]
+}

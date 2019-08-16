@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"E:/__source/unrealProjetos/unrealPyActor/.git": true,
+		"E:/__source/unrealProjetos/unrealPyActor/.vscode": true,
+		"E:/__source/unrealProjetos/unrealPyActor/Content": true,
+		"E:/__source/unrealProjetos/unrealPyActor/Intermediate": true,
+		"E:/__source/unrealProjetos/unrealPyActor/Saved": true
+	}
+}
